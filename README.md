@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhixiaLin&show_icons=true&theme=transparent)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cs169&repo=lamorinda-spirit-van)](https://github.com/cs169/lamorinda-spirit-van)
-
 - 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me: zhixialin.code@gmail.com
 
