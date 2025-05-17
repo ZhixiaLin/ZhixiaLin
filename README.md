@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me: zhixialin.code@gmail.com
+- Blog Website: https://zhixialin.github.io/blog
 
 <!--
 **ZhixiaLin/ZhixiaLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
