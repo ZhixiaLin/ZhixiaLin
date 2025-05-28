@@ -7,7 +7,7 @@
 <!--
 ![微信公众号](https://github.com/user-attachments/assets/f8eda88d-0fe6-4057-90de-9cd2d0585270)
 -->
-<img src="https://github.com/user-attachments/assets/f8eda88d-0fe6-4057-90de-9cd2d0585270" alt="微信公众号" width="600" />
+<img src="https://github.com/user-attachments/assets/f8eda88d-0fe6-4057-90de-9cd2d0585270" alt="微信公众号" width="500" />
 
 
 <!--
