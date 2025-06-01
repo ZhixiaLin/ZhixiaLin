@@ -7,18 +7,34 @@
 
 ## My expertise
 
-- Java
-- C++
-- Ruby on Rails
-- HTML, CSS
-- Docker
+- Backend Development
+  - Java
+  - C++
+  - Ruby on Rails
+- Frontend Technologies
+  - HTML, CSS
+  - Just the Docs
+- DevOps & Containerization
+  - Docker
+  - Linux Commands
+- GIS
+  - Envi
+  - ArcMap
 
 ## Currently learning
 
+- MindSpore & Mind SDK
 - Vue
-- JavaScript
 - iOS Development
 - Python
+
+## Plan learning
+- JavaScript
+- React
+- Nodejs
+- MongoDB
+- SQL
+
 
 <!--
 **ZhixiaLin/ZhixiaLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
