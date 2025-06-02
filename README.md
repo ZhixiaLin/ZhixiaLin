@@ -24,7 +24,8 @@
 ## Currently learning
 
 - MindSpore & Mind SDK
-- Vue
+- Vue, uni-app
+- Cursor
 - iOS Development
 - Python
 
