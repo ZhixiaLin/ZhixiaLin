@@ -26,7 +26,7 @@
 - MindSpore & Mind SDK
 - Vue, uni-app
 - Cursor
-- iOS Development
+- iOS Development (Swift + Xcode)
 - Python
 
 ## Plan learning
