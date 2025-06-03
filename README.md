@@ -30,6 +30,7 @@
 - Python
 
 ## Plan learning
+- JUnit
 - JavaScript
 - React
 - Nodejs
