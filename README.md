@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 📫 How to reach me: zhixialin.code@gmail.com
-- Blog Website: https://zhixialin.github.io/blog
-- Wechat Official Account: 
+- 💡 Blog Website: https://zhixialin.github.io/blog
+- 🎯 Wechat Official Account: 
 <img src="https://github.com/user-attachments/assets/f8eda88d-0fe6-4057-90de-9cd2d0585270" alt="微信公众号" width="500" />
 
 ## My expertise
@@ -14,6 +14,9 @@
 - Frontend Technologies
   - HTML, CSS
   - Just the Docs
+- AI Application Development
+  - FastGPT
+  - API Integration
 - DevOps & Containerization
   - Docker
   - Linux Commands
@@ -23,22 +26,26 @@
 
 ## Currently learning
 
-- MindSpore & Mind SDK
-- Vue, uni-app
-- Cursor
+- IDE (Cursor, Claude Code)
 - iOS Development (Swift + Xcode)
-- Python
+- Python, JavaScript
+- Vue, uni-app
+- OpenWrt
 
 ## Plan learning
 - JUnit
-- JavaScript
 - React
 - Nodejs
 - MongoDB
 - SQL
 
 ## Internship
-- TBD
+- **Zhejiang Leapmotor Technology Co., Ltd.** - AI Algorithm Intern (2025.07 - 2025.10)
+  - Developed an AI-powered "Meeting Assistant" agent using the [FastGPT](https://fastgpt.io) platform.
+  - Tested and reported 5 bugs in the FastGPT component, providing feedback that contributed to the v4.12.2-fix3 upgrade.
+  - Implemented backend API calls to support and integrate the agent's core functionalities.
+  - Optimized the documentation parsing and organization workflow for the production workshop knowledge base.
+  - Developed business logic code for the automated review of SOR (Statement of Requirements) documents.
 
 ## Research
 - TBD
