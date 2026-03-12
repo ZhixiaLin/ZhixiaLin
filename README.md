@@ -23,23 +23,27 @@
 - GIS
   - Envi
   - ArcMap
+- OpenWrt
 
 ## Currently learning
 
+- React, TypeScript, Vitest, Python
+- Agent, Skills, Tool Calling, MCP
 - IDE (Cursor, Claude Code)
 - iOS Development (Swift + Xcode)
-- Python, JavaScript
+- JavaScript
 - Vue, uni-app
-- OpenWrt
 
 ## Plan learning
+
+- OpenClaw
 - JUnit
-- React
 - Nodejs
 - MongoDB
 - SQL
 
 ## Internship
+
 - **Zhejiang Leapmotor Technology Co., Ltd.** - AI Algorithm Intern (2025.07 - 2025.10)
   - Developed an AI-powered "Meeting Assistant" agent using the [FastGPT](https://fastgpt.io) platform.
   - Tested and reported 5 bugs in the FastGPT component, providing feedback that contributed to the v4.12.2-fix3 upgrade.
@@ -48,6 +52,7 @@
   - Developed business logic code for the automated review of SOR (Statement of Requirements) documents.
 
 ## Research
+
 - TBD
 
 <!--
