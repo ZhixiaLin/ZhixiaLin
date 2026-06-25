@@ -1,19 +1,28 @@
 ## Hi there 👋
 
 - 📫 How to reach me: zhixialin.code@gmail.com
+<!--
 - 💡 Blog Website: https://zhixialin.github.io/blog
 - 🎯 Wechat Official Account: 
 <img src="https://github.com/user-attachments/assets/f8eda88d-0fe6-4057-90de-9cd2d0585270" alt="微信公众号" width="500" />
+-->
 
 ## My expertise
 
 - Backend Development
   - Java
   - C++
+  - Python
   - Ruby on Rails
 - Frontend Technologies
-  - HTML, CSS
+  - HTML, CSS, JavaScript
+  - React, TypeScript, Vitest
   - Just the Docs
+- Harness Engineering
+  - Agent
+  - Skills
+  - Tool Calling
+  - MCP
 - AI Application Development
   - FastGPT
   - API Integration
@@ -27,20 +36,15 @@
 
 ## Currently learning
 
-- React, TypeScript, Vitest, Python
-- Agent, Skills, Tool Calling, MCP
-- IDE (Cursor, Claude Code)
-- iOS Development (Swift + Xcode)
-- JavaScript
-- Vue, uni-app
+- PyTorch
 
 ## Plan learning
 
+- Swift
 - OpenClaw
-- JUnit
-- Nodejs
 - MongoDB
 - SQL
+- Vue
 
 ## Internship
 
