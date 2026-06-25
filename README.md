@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 📫 How to reach me: zhixialin.code@gmail.com
+- 📫 How to reach me
+  - Developers in China: linzhixia.zjut@qq.com
+  - Developers outside China: zhixialin.apply@gmail.com
 <!--
 - 💡 Blog Website: https://zhixialin.github.io/blog
 - 🎯 Wechat Official Account: 
